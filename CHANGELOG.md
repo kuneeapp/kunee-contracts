@@ -1,10 +1,10 @@
 # Changelog
 
-Changes to the local, sample-only KUNEE Contracts documentation are recorded here.
+Changes to the sample-only KUNEE Contracts documentation are recorded here.
 
-## 0.1.0-preview — planned documentation-only prerelease
+## 0.1.0-preview — documentation-only prerelease
 
-This is a planned documentation-only prerelease entry, not a production release.
+This is a documentation-only prerelease, not a production release.
 
 - Added a contracts overview and operator-only rehearsal status warnings.
 - Documented the Robinhood Chain rehearsal addresses and transaction references.

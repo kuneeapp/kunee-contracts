@@ -27,3 +27,5 @@ See [DEPLOYMENTS.md](DEPLOYMENTS.md) for the rehearsal addresses, transaction li
 - [KUNEE Contracts](https://github.com/kuneeapp/kunee-contracts)
 
 Questions about this sample repository: [support@kunee.app](mailto:support@kunee.app).
+
+[Documentation preview release](https://github.com/kuneeapp/kunee-contracts/releases/tag/v0.1.0-preview) · Not a production software release.
