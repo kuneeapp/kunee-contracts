@@ -28,4 +28,8 @@ See [DEPLOYMENTS.md](DEPLOYMENTS.md) for the rehearsal addresses, transaction li
 
 Questions about this sample repository: [support@kunee.app](mailto:support@kunee.app).
 
-[Documentation preview release](https://github.com/kuneeapp/kunee-contracts/releases/tag/v0.1.0-preview) · Not a production software release.
+## Open-source scope
+
+The material **in this repository** is available under the [MIT License](./LICENSE). Contributions to this repository are licensed the same way. The KUNEE application, unreleased contract source code, private infrastructure, and material outside this repository are **not** included. The license grants no rights to the KUNEE name or logos as trademarks and does not authorize use of any live service or operator-only contract. Licensing these notes does not verify that any deployed bytecode matches source code.
+
+[Licensed documentation preview](https://github.com/kuneeapp/kunee-contracts/releases/tag/v0.1.1-preview) · Not a production software release.

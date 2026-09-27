@@ -2,6 +2,10 @@
 
 Changes to the sample-only KUNEE Contracts documentation are recorded here.
 
+## 0.1.1-preview — licensed documentation prerelease
+
+- Licensed this repository's deployment notes under MIT. No contract source or public-use contract was released.
+
 ## 0.1.0-preview — documentation-only prerelease
 
 This is a documentation-only prerelease, not a production release.

@@ -2,6 +2,8 @@
 
 Thank you for helping maintain accurate and responsible contract documentation. This sample-only repository contains documentation, not contract source or a deployable contract package.
 
+By contributing, you agree to license your contributions to this repository under its [MIT License](./LICENSE). Only contribute work you have the right to license; this does not license the KUNEE application or its trademarks.
+
 ## Contribution principles
 
 - Keep documentation precise and distinguish observed rehearsal facts from plans, assumptions, and unresolved release gates.
